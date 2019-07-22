@@ -1,0 +1,14 @@
+/ArtikelExistiertBereitsException.class
+/BenutzerExistiertBereitsException.class
+/KundeExistiertBereitsException.class
+/MitarbeiterExistiertBereitsException.class
+/BenutzerNichtGefundenException.class
+/BenutzerNichtGefundenException2.class
+/LoginBenutzerNichtGefundenException.class
+/ArtikelNichtGefundenException.class
+/StueckzahlEntsprichtNichtPackungException.class
+/NumberFormatException.class
+/StueckzahlException.class
+/AnzahlNichtVielfachesVonPackungsgroesseException.class
+/ArtikelBereitsImWarenkorbException.class
+/WarenkorbIstLeerException.class

@@ -1,0 +1,72 @@
+tt
+hallo
+Thorsten
+Teschke
+Flughafenallee 10
+28199
+Bremen
+Deutschland
+Kunde
+lo
+hallo
+Lars
+Obist
+Wischmannstrasse 31
+28277
+Bremen
+Deutschland
+Kunde
+tn
+hallo
+Thao Phoung
+Nguyen
+Reepmoorsweg 47
+27793
+Wildeshausen
+Deutschland
+Kunde
+yl
+hallo
+Yuliya
+Litvin
+Adolf-Reichwein-Str.17
+28329
+Bremen
+Deutschland
+Kunde
+hm
+hallo
+Hans
+Mustermann
+Leninstr.5
+28344
+Berlin
+Deutschland
+Kunde
+aj
+hallo
+Angelina
+Jolie
+Newyorkstreet.7
+47729
+New York
+USA
+Kunde
+af
+hallo
+Anyelina
+Fahrenholz
+Schwachhauser-Heerstr.14
+28673
+Bremen
+Deutschland
+Kunde
+jr
+hallo
+Julia
+Roberts
+New-York-Street.5
+23355
+New York
+USA
+Kunde

@@ -1,0 +1,30 @@
+<<<<<<< HEAD
+/artikelVerwaltung.class
+/bibliothek.class
+/einkaufsVerwaltung.class
+/kundenVerwaltung.class
+/mitarbeiterVerwaltung.class
+/package-info.class
+/benutzerVerwaltung.class
+/verwaltung.class
+/Verwaltung.class
+/EinkaufsVerwaltung.class
+/BenutzerVerwaltung.class
+/ArtikelVerwaltung.class
+=======
+/artikelVerwaltung.class
+/bibliothek.class
+/einkaufsVerwaltung.class
+/kundenVerwaltung.class
+/mitarbeiterVerwaltung.class
+/package-info.class
+/benutzerVerwaltung.class
+/verwaltung.class
+/Hans.class
+>>>>>>> 2f1c7ed8bda81733ebd7bbc2c9ab1e79b2449b49
+/BenutzerVerwaltung$benutzerVerwaltung.class
+/BenutzerExistiertBereitsException.class
+/Einkaufsverwaltung.class
+/HistorieVerwaltung.class
+/Historie.class
+/Historie$TagesBestand.class

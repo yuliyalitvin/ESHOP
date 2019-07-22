@@ -1,0 +1,10 @@
+domain
+domain.exceptions
+interfaces
+network
+persistence
+ui.gui.swing
+ui.gui.swing.fenster
+ui.gui.swing.models
+ui.gui.swing.panels
+valueObjects
