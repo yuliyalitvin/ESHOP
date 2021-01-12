@@ -1,6 +1,6 @@
-Starten des eShops in einem Java Programm (z.B: Eclipse).
+Starten des EShops in einem Java Programm (z.B: Eclipse).
 
-Zum starten eines Fensters müssen Sie folgendes machen:
+Zum Starten eines Fensters müssen Sie folgendes machen:
 1. Klasse "EShopServer" starten. (CS-eShopYTL Server -> src -> network -> EShopServer)
 2. Klasse "GUI" starten. (CS-eShopYTL Client -> src -> ui.gui.swing -> GUI)
-Wenn sie mehrere Fenster gleichzeitig starten möchten, müssen Sie lediglich weitere GUI Klassen starten.
+Wenn Sie mehrere Fenster gleichzeitig starten möchten, müssen Sie lediglich weitere GUI Klassen starten.
